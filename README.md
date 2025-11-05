@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ademayowa</h1>
-<h3 align="center">A Software Engineer With 5+ Years of Experience</h3>
+<h3 align="center">A Software Engineer</h3>
 
 - 🔭 I’m currently working on **A job board app for DevOps and cloud related jobs**
 
