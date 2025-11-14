@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **DevOps and Cloud Engineering**
 
-- 👨‍💻 All of my projects are available at [https://mayowa.dev/](https://mayowa.dev/)
-
 - 📝 I regularly write articles on [https://dev.to/mayorstacks](https://dev.to/mayorstacks)
 
 - 📫 How to reach me **mayorstacks@gmail.com**
