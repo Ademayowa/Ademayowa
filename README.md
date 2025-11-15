@@ -5,9 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/mayorstacks](https://dev.to/mayorstacks)
 
-- 📫 How to reach me **mayorstacks@gmail.com**
-
-- ⚡ Fun fact **I play the acoustic guitar so well & a big fan of chinese martial arts movies**
+- ⚡ Fun fact **I play the acoustic guitar so well &**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
