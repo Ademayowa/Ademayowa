@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/mayorstacks](https://dev.to/mayorstacks)
 
-- ⚡ Fun fact **I play the acoustic guitar so well &**
+- ⚡ Fun fact **I play the acoustic guitar so well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
