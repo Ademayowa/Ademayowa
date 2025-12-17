@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ademayowa </h1>
-<h3 align="center">A Software Engineer</h3>
 
-- 🌱 I’m currently learning **DevOps and Cloud Engineering**
+- 🌱 I’m currently upskilling in **DevOps and Cloud Engineering** 
 
 - 📝 I regularly write articles on [https://dev.to/mayorstacks](https://dev.to/mayorstacks)
 
