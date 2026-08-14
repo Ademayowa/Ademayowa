@@ -2,8 +2,8 @@
 
 <br/>
 
-- 🌱 I'm currently upskilling in **Cloud & Platform Engineering**
-- 📝 I regularly write articles on [https://dev.to/mayorstacks](https://dev.to/mayorstacks)
+- 🌱 I'm currently upskilling in **Infrastructure & Platform Engineering**
+- 📝 I regularly write articles on [https://medium.com/@mayorstacks](https://medium.com/@mayorstacks)
 - ⚡ Fun fact: **I play the acoustic guitar so well**
 
 <br/>
